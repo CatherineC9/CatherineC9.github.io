@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+	<title>E-learning project demo</title>
+	<duration>Duration: 15 minutes</duration>
+	<numscreens>1</numscreens>
+	<D></D>
+	<objectives><![CDATA[<b>Description:</b><br>This mini-module will highlight the features and benefits of Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<br><br><b>Learning Objectives:</b><Br>By the end of the module, you will be able to:<ul><li>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</li><li>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</li><li>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor erat, sed diam voluptua.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</li><li>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </li></ul><br><b>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, dolore magna aliquyam erat, sed diam voluptua.</b>]]></objectives>
+</course>

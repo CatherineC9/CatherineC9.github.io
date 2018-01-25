@@ -1,0 +1,32 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Flash emodule demo</title>
+<script type="text/javascript" src="swfobject.js"></script>
+<style>
+	body{
+		background:url(modulebg.gif);
+		margin-top:10px;
+	}
+
+
+</style>
+
+</head>
+<body>
+
+	<div id="flashcontent" align="center">
+
+	</div>
+
+	<script type="text/javascript">
+		// <![CDATA[
+		
+		var so = new SWFObject("base.swf", "sotester", "965", "700", "8", "#FFFFFF");
+		so.write("flashcontent");
+		
+		// ]]>
+	</script>
+	
+</body>
+</html>
